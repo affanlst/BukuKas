@@ -45,7 +45,7 @@ $email = $_SESSION['email'];
         <div class="main">
             <p id="welcome-message"></p>
             <p>how're you doing today?</p>
-            <p>Don't forget to input the student data today.</p>
+            <p>Don't forget to input your financial data today.</p>
         </div>
     </div>
 
